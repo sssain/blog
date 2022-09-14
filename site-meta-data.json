@@ -4,6 +4,6 @@
   "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
   "home": {
     "title": "Naufal Zaqie.",
-    "description": "a﻿ Student, front-end web developer, and an UI/UX designer. See more about me on my [portfolio website](https://neofal.xyz)"
+    "description": "a﻿ Student, front-end web developer, and an UI/UX designer. See more about me on <a href=\"https://neofal.xyz\">my portfolio</a>"
   }
 }
