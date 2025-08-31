@@ -1,0 +1,14 @@
+---
+layout: layout.html
+title: blog
+eleventyExcludeFromCollections: true
+date: Last Modified
+
+---
+<div class="uk-flex uk-flex-center uk-padding uk-padding-remove-top">
+    <ul class="uk-list">
+        {%- for post in collections.all -%}
+        <li><a style="font-size: large;" href="{{ post.url }}">> {{ post.data.title }}</a><p style="font-size: small;">{{ post.date }}</p></li>
+        {%- endfor -%}
+        </ul>
+</div>
