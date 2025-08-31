@@ -1,9 +1,9 @@
 ---
 published: true
 date: 2025-08-31
-title: the trap of nostalgia
+title: frutiger aero nostalgia
 ---
-# The Trap of Nostalgia
+# frutiger aero nostalgia
 
 There’s a time in my life, sometimes like a whole week I can get super often hit by nostalgia, my favourite time was 2016. Not just the memories tho, even the aesthetics of that time, like in 2015–16 it was the era of frutiger aero, like I miss the user interface of Windows 7!
 
