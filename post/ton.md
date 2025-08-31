@@ -5,10 +5,6 @@ title: the trap of nostalgia
 ---
 # The Trap of Nostalgia
 
-Nostalgia is a powerful emotion that often takes us back to cherished memories of the past. It can evoke feelings of warmth and comfort, reminding us of simpler times or moments of joy. However, while nostalgia can be a source of happiness, it can also create a longing for a past that may not have been as perfect as we remember.
+There’s a time in my life, sometimes like a whole week I can get super often hit by nostalgia, my favourite time was 2016. Not just the memories tho, even the aesthetics of that time, like in 2015–16 it was the era of frutiger aero, like I miss the user interface of Windows 7, the media center lol (insert the media center photo), or like those old-school tech designs that were transparent, unique, maybe back then they really put effort into designing those devices. But sometimes this feeling really messes me up, I can just zone out while listening to a frutiger aero playlist that for some reason feels super nostalgic, like how the hell? frutiger aero chord progression???
 
-In this blog post, we will explore the dual nature of nostalgia. On one hand, it can serve as a coping mechanism during challenging times, helping us find solace in memories. On the other hand, it can trap us in an idealized version of the past, preventing us from fully embracing the present or planning for the future.
-
-Understanding the trap of nostalgia requires us to reflect on why we cling to certain memories and how they shape our perception of the present. Are we using nostalgia as a way to escape reality, or can we harness it to inspire growth and gratitude? These are important questions to consider as we navigate our relationship with the past.
-
-Ultimately, nostalgia is neither inherently good nor bad—it is a tool that we can use wisely or unwisely. By acknowledging its influence and maintaining a balanced perspective, we can appreciate the beauty of our memories while staying grounded in the here and now.
+There’s this one dream in my life, I really wanna make a whole room filled with devices from that era, like maybe an iPod, iPhone 6, PS3/Xbox 360, a PC with Windows 7 and a super cozy speaker setup.
