@@ -7,7 +7,7 @@ title: the trap of nostalgia
 
 There’s a time in my life, sometimes like a whole week I can get super often hit by nostalgia, my favourite time was 2016. Not just the memories tho, even the aesthetics of that time, like in 2015–16 it was the era of frutiger aero, like I miss the user interface of Windows 7!
 
-![](/media/images%20(6).jpeg)  
+![mediacenter](https://github.com/sssain/blog/blob/main/src%2Fmedia%2Fimages%20%286%29.jpeg)  
 
 the media center lol, or like those old-school tech designs that were transparent, unique, maybe back then they really put effort into designing those devices. But sometimes this feeling really messes me up, I can just zone out while listening to a frutiger aero playlist that for some reason feels super nostalgic, like how the hell? frutiger aero chord progression???
 
