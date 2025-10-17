@@ -1,5 +1,6 @@
 ---
 published: true
+date: 2025-10-18
 title: i may be running out of time
 ---
 For the past two years, I’ve wasted my time on worthless, useless things. I feel like I’m not even trying to reach my potential, just living my life recklessly. There are so many things I wish I had done earlier; I was just distracted, stumbled away from my life’s pathway. I wish I had been alone back then, focusing only on myself, my life, my journey. Although it may seem boring and repetitive, I think that’s the best way... or maybe I just loved the wrong person.  
