@@ -1,5 +1,6 @@
 ---
 published: true
+date: 2025-12-13
 title: i’ll leave everything behind
 ---
 I’ll say I’m thankful for everything that happened in 2025. Some of those moments changed me, and some pierced my mental strength, but I guess they were tests from God. In fact, I should be grateful for all of it. A bit of brain fog still lingers, especially since I’ve lost interest in my favorite shows and in learning new things, but I believe it’s just a matter of time.
